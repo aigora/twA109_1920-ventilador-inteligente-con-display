@@ -16,6 +16,8 @@ Lista de los objetivos que se persiguen con el trabajo propuesto.
 
 ## Hardware
 
-
+PC, Arduino, sensor de temperatura y humedad, display, botón, resistencias, ventilador.
 
 ## Software
+
+Programación con el IDE de Arduino
