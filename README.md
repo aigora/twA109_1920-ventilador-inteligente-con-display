@@ -1,10 +1,13 @@
-# Título del trabajo
+# Ventilador inteligente con display
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El proyecto consistirá en un pequeño ventilador que se activará cuando se supere una determinada temperatura.
+Utilizaremos un sensor de temperatura y humedad para registrar estos datos, e incorporaremos también un display para visualizarlos.
+También añadiremos un botón de parada que detendrá la ejecución.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Daniel Parrilla Murias, 54141 @danielparrillam
+Pedro Menchero Meco 54273
 
 ## Objetivos del trabajo
 
