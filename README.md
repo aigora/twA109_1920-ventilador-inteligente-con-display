@@ -13,3 +13,9 @@ Pedro Menchero Meco 54273
 ## Objetivos del trabajo
 
 Lista de los objetivos que se persiguen con el trabajo propuesto.
+
+## Hardware
+
+
+
+## Software
