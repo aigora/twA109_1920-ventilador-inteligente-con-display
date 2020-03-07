@@ -7,6 +7,7 @@ También añadiremos un botón de parada que detendrá la ejecución.
 ## Integrantes del equipo
 
 Daniel Parrilla Murias, 54141 @danielparrillam
+
 Pedro Menchero Meco 54273
 
 ## Objetivos del trabajo
